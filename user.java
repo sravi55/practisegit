@@ -1,7 +1,7 @@
 public static  void main(Atring args[]){
 public class user{
 int a,b;
-System.out.println("a and b are variables");
+System.out.println("print a and b values");
 }
 }
 
